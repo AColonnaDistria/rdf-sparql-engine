@@ -1,0 +1,8 @@
+/target/
+*.json
+/brunner
+data
+data/*
+
+watdiv-mini-projet-partie-2/more query templates
+watdiv-mini-projet-partie-2/testsuite
