@@ -1,3 +1,7 @@
+/*
+Authors: Federico Ulliana <federico.ulliana@inria.fr> & Guillaume Pérution-Khili
+*/
+
 package qengine.model;
 
 import fr.boreal.model.formula.api.FOFormulaConjunction;
