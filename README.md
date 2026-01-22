@@ -77,7 +77,7 @@ If we just run WatDiv without any smapling.
 
 After removing duplicates and sampling it by number of answers. (Queries with 100+ answers will be unreliable as the dataset is much smaller).
 
-![Distribution of queries after sampling](nb-sample-answers-bin-1M-queries-500k-triplets.png)
+![Distribution of queries after sampling](readme-images/nb-sample-answers-bin-1M-queries-500k-triplets.png)
 
 1. Evaluating performance (500K triplets)
 
