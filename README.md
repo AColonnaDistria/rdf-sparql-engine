@@ -120,3 +120,5 @@ The number of triplets is the most important factor (≈ 0.616), with JVM heap s
 
 5. Correctness & Completeness
 In all scenarios, correctness and completeness were achieved and are at 100%.
+Verified against the InteGraal 1.7.2 library (Oracle) to ensure 100% Correctness and Completeness.
+
