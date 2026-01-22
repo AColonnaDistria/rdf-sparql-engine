@@ -15,6 +15,8 @@ Each file has an author specified.
 ## Overview
 The primary objective of this project is to implement an efficient system for querying RDF data. Unlike traditional relational databases, this engine uses a specialized Hexastore index—which maintains six separate indices for all permutations of Subject (S), Predicate (P), and Object (O) in order to provide O(1) or O(log N) lookups for RDF triple patterns.
 
+![Hexastore](readme-images/hexastore.png)
+
 ## Requirements
 - Java 21
 - Maven
